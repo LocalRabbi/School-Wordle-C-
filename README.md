@@ -1,2 +1,0 @@
-# WordleInC-
-Wordle in C++
